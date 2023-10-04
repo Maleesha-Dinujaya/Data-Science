@@ -12,9 +12,11 @@ At its core, data science is the process of collecting, cleaning, analyzing, and
 
 Python is the go-to programming language for data science due to its simplicity and a rich ecosystem of libraries. Start by learning Python basics and then delve into libraries like NumPy, Pandas, and Matplotlib, which are essential for data manipulation and visualization.
 
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+
 
 2. Understand Data
 
