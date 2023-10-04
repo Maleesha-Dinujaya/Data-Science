@@ -18,27 +18,33 @@ import pandas as pd
 import matplotlib.pyplot as plt
 ```
 
-2. Understand Data
+## 2. Understand Data
 
 To work with data, you need to understand its structure. Learn about data types, variables, and how to load data from various sources like CSV files or databases. Pandas is an excellent library for data manipulation and exploration.
-3. Data Cleaning
+
+## 3. Data Cleaning
 
 Real-world data is often messy. Data cleaning involves handling missing values, outliers, and inconsistencies. The fillna(), dropna(), and other Pandas functions will be your best friends during this phase.
-4. Data Visualization
+
+## 4. Data Visualization
 
 Visualizing data is crucial for understanding it. Matplotlib and Seaborn are popular libraries for creating various types of plots and charts to gain insights from your data.
-5. Statistics
+
+## 5. Statistics
 
 Basic statistics, such as mean, median, and standard deviation, are essential for understanding the central tendencies and distributions of your data.
-6. Machine Learning
+
+## 6. Machine Learning
 
 Machine learning is a significant part of data science. Start with simple algorithms like linear regression and gradually explore more complex models as you become comfortable.
 
-python
+```python
 
 from sklearn.linear_model import LinearRegression
 
-7. Projects and Practice
+```
+
+## 7. Projects and Practice
 
 The best way to learn data science is by doing projects. Find datasets that interest you, set specific goals, and start analyzing the data. Create Jupyter Notebooks to document your work and share your findings.
 Resources
