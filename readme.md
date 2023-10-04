@@ -16,7 +16,7 @@ Python is the go-to programming language for data science due to its simplicity 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
+```
 
 2. Understand Data
 
